@@ -1,12 +1,11 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+import Navbar from "./Components/Navbar"
 
 function App() {
   return (
     <Router>
-      <div className="container">
-        <h2>Portfolio</h2>
-      </div>
+      <Navbar />
     </Router>
   );
 }
