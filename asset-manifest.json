@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.bb737eee.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.dec81984.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.dec81984.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.b547a3ce.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.b547a3ce.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/react-portfolio/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.bc088dad.chunk.js": "/react-portfolio/static/js/2.bc088dad.chunk.js",
+    "static/js/2.bc088dad.chunk.js.map": "/react-portfolio/static/js/2.bc088dad.chunk.js.map",
+    "static/js/3.74433d01.chunk.js": "/react-portfolio/static/js/3.74433d01.chunk.js",
+    "static/js/3.74433d01.chunk.js.map": "/react-portfolio/static/js/3.74433d01.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/react-portfolio/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.bb737eee.chunk.css.map": "/react-portfolio/static/css/main.bb737eee.chunk.css.map",
+    "static/js/2.bc088dad.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.bc088dad.chunk.js.LICENSE.txt",
+    "static/media/IMG_3549.3f3a2cdd.png": "/react-portfolio/static/media/IMG_3549.3f3a2cdd.png",
+    "static/media/Portfolio-1_0000_Screen Shot 2020-09-29 at 5.59.33 PM.png.d9afb0cb.jpg": "/react-portfolio/static/media/Portfolio-1_0000_Screen Shot 2020-09-29 at 5.59.33 PM.png.d9afb0cb.jpg",
+    "static/media/Portfolio-1_0001_Screen Shot 2020-09-29 at 5.59.40 PM.png.56b24bb8.jpg": "/react-portfolio/static/media/Portfolio-1_0001_Screen Shot 2020-09-29 at 5.59.40 PM.png.56b24bb8.jpg",
+    "static/media/Portfolio-1_0002_Screen Shot 2020-09-29 at 6.00.29 PM.png.e7f3828d.jpg": "/react-portfolio/static/media/Portfolio-1_0002_Screen Shot 2020-09-29 at 6.00.29 PM.png.e7f3828d.jpg",
+    "static/media/Portfolio-1_0003_Screen Shot 2020-09-29 at 6.04.28 PM.png.55d1fffd.jpg": "/react-portfolio/static/media/Portfolio-1_0003_Screen Shot 2020-09-29 at 6.04.28 PM.png.55d1fffd.jpg",
+    "static/media/Screen Shot 2020-10-16 at 7.49.28 PM.d7ca8fc9.png": "/react-portfolio/static/media/Screen Shot 2020-10-16 at 7.49.28 PM.d7ca8fc9.png",
+    "static/media/Screen Shot 2020-10-19 at 5.24.58 PM.a39b39b7.png": "/react-portfolio/static/media/Screen Shot 2020-10-19 at 5.24.58 PM.a39b39b7.png",
+    "static/media/Screen Shot 2020-10-19 at 5.30.07 PM.6d49d60f.png": "/react-portfolio/static/media/Screen Shot 2020-10-19 at 5.30.07 PM.6d49d60f.png",
+    "static/media/Screen Shot 2020-12-02 at 3.22.11 PM.92ef79cb.png": "/react-portfolio/static/media/Screen Shot 2020-12-02 at 3.22.11 PM.92ef79cb.png",
+    "static/media/Screen Shot 2020-12-02 at 3.30.59 PM copy.5a0ea6aa.png": "/react-portfolio/static/media/Screen Shot 2020-12-02 at 3.30.59 PM copy.5a0ea6aa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b547a3ce.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.bc088dad.chunk.js",
+    "static/css/main.bb737eee.chunk.css",
+    "static/js/main.dec81984.chunk.js"
+  ]
+}
