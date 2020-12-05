@@ -9,7 +9,7 @@ import Resume from "./Pages/Resume";
 
 function App() {
   return (
-    <Router basename='/'>
+    <Router basename='react-portfolio/'>
       <Header />
       <Route exact path="/" component={Index} />
       <Route exact path="/portfolio" component={Portfolio} />
