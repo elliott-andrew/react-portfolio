@@ -12,4 +12,4 @@ A complete rebuild of my portfolio utalizing React.This is a mobile-first, respo
 
 ## Final Result
 
-[https://raw.githubusercontent.com/elliott-andrew/hw2-responsive-portfolio/master/assets/_0000_Homepage.jpg](https://raw.githubusercontent.com/elliott-andrew/hw2-responsive-portfolio/master/assets/_0000_Homepage.jpg)
+![portfolio](https://raw.githubusercontent.com/elliott-andrew/hw2-responsive-portfolio/master/assets/_0000_Homepage.jpg)
