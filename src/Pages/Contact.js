@@ -33,7 +33,7 @@ const Contact = () => {
                             <tr>
                                 {/* <!-- Resume --> */}
                                 <th scope="row">Resume</th>
-                                <td><a href="resume.html">View Here</a></td>
+                                <td><a href="/resume">View Here</a></td>
                             </tr>
                             <tr>
                                 {/* <!-- Email Address --> */}
