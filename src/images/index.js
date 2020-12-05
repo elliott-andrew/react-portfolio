@@ -1,0 +1,9 @@
+export const GOOGLE_HOMEPAGE = require('./Portfolio-1_0000_Screen Shot 2020-09-29 at 5.59.33 PM.png.jpg');
+export const INTRO_PAGE = require('./Portfolio-1_0001_Screen Shot 2020-09-29 at 5.59.40 PM.png.jpg');
+export const HORSEON = require('./Portfolio-1_0002_Screen Shot 2020-09-29 at 6.00.29 PM.png.jpg');
+export const TRIBUTE = require('./Portfolio-1_0003_Screen Shot 2020-09-29 at 6.04.28 PM.png.jpg');
+export const CHOPCHEESE = require('./chopcheese.png');
+export const CODEQUIZ = require('./Screen Shot 2020-10-19 at 5.24.58 PM.png');
+export const WEATHERDASHBOARD = require('./Screen Shot 2020-10-19 at 5.30.07 PM.png');
+export const EMPLOYEESUMMARY = require('./Screen Shot 2020-12-02 at 3.22.11 PM.png');
+export const BROWNBAG = require('./Screen Shot 2020-12-02 at 3.30.59 PM copy.png');
