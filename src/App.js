@@ -1,5 +1,5 @@
 import "bootstrap/dist/css/bootstrap.min.css";
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { HashRouter as Router, Route } from "react-router-dom";
 import Footer from "./Components/Footer";
 import Header from "./Components/Header"
 import Index from "./Pages/Index"
@@ -9,7 +9,7 @@ import Resume from "./Pages/Resume";
 
 function App() {
   return (
-    <Router basename='/'>
+    <Router>
       <Header />
       <Route exact path="/" component={Index} />
       <Route exact path="/portfolio" component={Portfolio} />
