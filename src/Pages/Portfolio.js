@@ -3,7 +3,7 @@ import GOOGLE_HOMEPAGE from '../images/Portfolio-1_0000_Screen Shot 2020-09-29 a
 import INTRO_PAGE from '../images/Portfolio-1_0001_Screen Shot 2020-09-29 at 5.59.40 PM.png.jpg';
 import HORSEON from '../images/Portfolio-1_0002_Screen Shot 2020-09-29 at 6.00.29 PM.png.jpg';
 import TRIBUTE from '../images/Portfolio-1_0003_Screen Shot 2020-09-29 at 6.04.28 PM.png.jpg';
-import CHOPCHEESE from '../images/chopcheese.png';
+import CHOPCHEESE from '../images/Screen Shot 2020-10-16 at 7.49.28 PM.png';
 import CODEQUIZ from '../images/Screen Shot 2020-10-19 at 5.24.58 PM.png';
 import WEATHERDASHBOARD from '../images/Screen Shot 2020-10-19 at 5.30.07 PM.png';
 import EMPLOYEESUMMARY from '../images/Screen Shot 2020-12-02 at 3.22.11 PM.png';
