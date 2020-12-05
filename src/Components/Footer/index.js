@@ -3,12 +3,11 @@ import "./style.css"
 
 const Footer = () => {
     return (
-        <footer class="footer">
-            <div class="row">
-                <div class="container">
+        <footer className="footer">
+            <div className="row">
+                <div className="container">
                     <h2>Andrew Elliott</h2>
                 </div>
-
             </div>
         </footer>
     )

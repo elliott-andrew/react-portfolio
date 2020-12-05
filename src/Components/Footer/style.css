@@ -12,3 +12,10 @@
     padding: 20px 0;
     font-size: 1em;
 }
+
+#phantom {
+  display: 'block';
+  padding: '20px';
+  height: '60px';
+  width: '100%';
+}

@@ -44,3 +44,7 @@ h2 {
 .fas {
     font-size: .70em;
 }
+
+.portfolio-images {
+    border: 1px solid darkgray;
+}

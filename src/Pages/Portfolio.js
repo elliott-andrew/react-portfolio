@@ -124,7 +124,7 @@ const Projects = () => {
                     </div>
                 </article>
             </div>
-            <div className="row">
+            <div className="row mb-5">
                 {/* <!-- Weather Dashboard --> */}
                 <article className="col-md-4"><a href="https://github.com/elliott-andrew/weather-dashboard" target="_blank" rel="noreferrer"><img
                     src={WEATHERDASHBOARD} className="img-fluid portfolio-images"
