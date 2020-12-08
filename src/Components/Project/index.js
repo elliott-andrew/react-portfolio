@@ -20,7 +20,8 @@ class Project extends Component {
                 <div className="row">
                     <div className="col  mb-4">
                         <p>{this.props.description}</p>
-                        <a href={this.props.github}>Band Tribute Page</a>
+                        <a href={this.props.github}>{this.props.name} - GitHub</a> <br />
+                        <a href={this.props.deployed}>{this.props.name} - deployed</a>
                     </div>
                 </div>
             </article>
