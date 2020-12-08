@@ -46,6 +46,11 @@ const Contact = () => {
                                 <td><a href="https://www.linkedin.com/in/elliott-and/">LinkedIn</a></td>
                             </tr>
                             <tr>
+                                {/* <!-- GitHub --> */}
+                                <th scope="row">GitHub</th>
+                                <td><a href="https://github.com/elliott-andrew">GitHub</a></td>
+                            </tr>
+                            <tr>
                                 {/* <!-- Social Media --> */}
                                 <th scope="row">Instagram</th>
                                 <td><a href="http://www.instagram.com/throwshade/">@throwshade</a></td>
