@@ -40,7 +40,11 @@ const Contact = () => {
                                 <th scope="row">Email</th>
                                 <td><a href="mailto:andrewjc.elliott@gmail.com">Click Here</a></td>
                             </tr>
-
+                            <tr>
+                                {/* <!-- LinkedIn --> */}
+                                <th scope="row">LinkedIn</th>
+                                <td><a href="https://www.linkedin.com/in/elliott-and/">LinkedIn</a></td>
+                            </tr>
                             <tr>
                                 {/* <!-- Social Media --> */}
                                 <th scope="row">Instagram</th>
