@@ -21,7 +21,7 @@ class Project extends Component {
                     <div className="col  mb-4">
                         <p>{this.props.description}</p>
                         <a href={this.props.github}>{this.props.name} - GitHub</a> <br />
-                        <a href={this.props.deployed}>{this.props.name} - deployed</a>
+                        {this.props.deployed ? <a href={this.props.deployed}>{this.props.name} - deployed</a> : <p> </p>}
                     </div>
                 </div>
             </article>
